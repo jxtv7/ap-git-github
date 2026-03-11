@@ -1,11 +1,46 @@
 ###	FLUXO DE TRABALHO
 
-1. criar um diretório do projeto
-2. iniciar o git dentro do diretório(git init .)
-3. edita ou cria arquivos
+GIT LOCAL
+
+1. git checkout -b <nova_branch>
+2. cria ou atualiza arquivos
+3. git status
+4. git add *arquivos*
+5. git status
+6. git commit -m "msg"
+7. git checkout main
+8 gir merge <nova_branch>
+
+----------------------------
+
+GITHUB <> LOCAL (projeto próprio ou minha empresa)
+
+1. git clone <endereço do projeto>
+2. git checkout -b <nova_branch>
+3. alterações de arquivos
 4. git status
-5. git add <nome arquivo>
+5. git add *arquivos*
 6. git status
 7. git commit -m "msg"
-8. git status.
-9. volta para o passo 3.
+8. git push -u origin main
+9. abrir Pull Request no Github para main
+10. excluir <nova_branch> origin
+11. git checkout main
+12. git branch -D <nova_branch>
+
+GITHUB <> LOCAL (projeto open-souce)
+
+1. git clone <endereço do projeto>
+2. git checkout -b <nova_branch>
+3. alterações de arquivos
+4. git status
+5. git add *arquivos*
+6. git status
+7. git commit -m "msg"
+8. git push -u origin main
+9. abrir Pull Request no Github da branch fork para a main do projeto original
+11. excluir <nova_branch> origin
+12. git checkout main
+13. git branch -D <nova_branch>
+
+.
