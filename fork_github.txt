@@ -1,0 +1,7 @@
+####		FAZER UM FORK
+
+1. criar um fork, em algum projeto github
+2. ir no terminal
+3. cd Desktop/
+4. git clone <link do meu fork> 
+5. 
