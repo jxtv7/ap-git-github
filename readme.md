@@ -8,4 +8,7 @@ Estou documentando a minha evolução, voltando sempre pra atualizar o que apren
 --------
 
 Participantes: João Victor Cavalcante
-Vendo através do canal [teomewhy] no Youtube.
+
+Curso Git-Github:
+[Canal teomewhy](https://youtube.com/teomewhy)
+[teomewhy.org](https://teomewhy.org/schedule)
